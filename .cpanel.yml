@@ -1,5 +1,1 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/ethereumaz/rustamov.dev/
-    - /bin/cp -R images $DEPLOYPATH
+
